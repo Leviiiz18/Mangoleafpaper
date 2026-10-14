@@ -1,0 +1,121 @@
+image_path,mask_path,class_name,label,lesion_pixel_count,lesion_percentage
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_164125 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_164125 (Custom)_mask.png,Anthracnose,0,5474,10.909598214285714
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_161626 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_161626 (Custom)_mask.png,Anthracnose,0,3054,6.086575255102041
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_161710 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_161710 (Custom)_mask.png,Anthracnose,0,3289,6.554926658163265
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_161335 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_161335 (Custom)_mask.png,Anthracnose,0,3387,6.750239158163265
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_161938 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_161938 (Custom)_mask.png,Anthracnose,0,5117,10.198102678571429
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_161345 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_161345 (Custom)_mask.png,Anthracnose,0,12292,24.497767857142858
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_162453 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_162453 (Custom)_mask.png,Anthracnose,0,993,1.9790338010204083
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\20211011_170723 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_20211011_170723 (Custom)_mask.png,Anthracnose,0,6252,12.46014030612245
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_140429 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_140429 (Custom)_mask.png,Anthracnose,0,1141,2.2739955357142856
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\20211011_133809 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_20211011_133809 (Custom)_mask.png,Anthracnose,0,3016,6.010841836734694
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\20211011_165903 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_20211011_165903 (Custom)_mask.png,Anthracnose,0,3575,7.124920280612244
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_164402 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_164402 (Custom)_mask.png,Anthracnose,0,1114,2.220184948979592
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_164906 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_164906 (Custom)_mask.png,Anthracnose,0,1755,3.497688137755102
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\20211011_134057 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_20211011_134057 (Custom)_mask.png,Anthracnose,0,5891,11.740672831632654
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_162833 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_162833 (Custom)_mask.png,Anthracnose,0,2272,4.528061224489796
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_164047 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_164047 (Custom)_mask.png,Anthracnose,0,3144,6.265943877551021
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_164427 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_164427 (Custom)_mask.png,Anthracnose,0,1626,3.240593112244898
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_161616 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_161616 (Custom)_mask.png,Anthracnose,0,11358,22.636320153061224
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\20211011_165919 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_20211011_165919 (Custom)_mask.png,Anthracnose,0,13877,27.656648596938776
+D:\code\Mangoleaf\Mango Dataset\process data\Anthracnose\IMG_20211011_161923 (Custom).jpg,D:\code\Mangoleaf\masks\Anthracnose_IMG_20211011_161923 (Custom)_mask.png,Anthracnose,0,4241,8.452248086734695
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241027_140832-removebg-preview.png,D:\code\Mangoleaf\masks\Bacterial Canker_20241027_140832-removebg-preview_mask.png,Bacterial Canker,1,11,0.021922831632653062
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20241103_214737_022.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20241103_214737_022_mask.png,Bacterial Canker,1,1254,2.499202806122449
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20241103_214701_966.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20241103_214701_966_mask.png,Bacterial Canker,1,1522,3.0333227040816326
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20241103_214640_347.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20241103_214640_347_mask.png,Bacterial Canker,1,1472,2.933673469387755
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241028_150235.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_20241028_150235_mask.png,Bacterial Canker,1,4624,9.215561224489797
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20241103_214651_794.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20241103_214651_794_mask.png,Bacterial Canker,1,1074,2.14046556122449
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20211106_135719 (Custom).jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20211106_135719 (Custom)_mask.png,Bacterial Canker,1,5327,10.616629464285714
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20211106_140435 (Custom).jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20211106_140435 (Custom)_mask.png,Bacterial Canker,1,4216,8.402423469387756
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241028_151225.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_20241028_151225_mask.png,Bacterial Canker,1,7590,15.126753826530612
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20211106_135710 (Custom).jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20211106_135710 (Custom)_mask.png,Bacterial Canker,1,3576,7.126913265306123
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241028_145820-removebg-preview.png,D:\code\Mangoleaf\masks\Bacterial Canker_20241028_145820-removebg-preview_mask.png,Bacterial Canker,1,10113,20.155054209183675
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20211106_140023 (Custom).jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20211106_140023 (Custom)_mask.png,Bacterial Canker,1,3824,7.621173469387756
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241028_161540.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_20241028_161540_mask.png,Bacterial Canker,1,4275,8.52000956632653
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241028_154450.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_20241028_154450_mask.png,Bacterial Canker,1,6016,11.989795918367346
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241028_161210.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_20241028_161210_mask.png,Bacterial Canker,1,8501,16.94236288265306
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241027_141607-removebg-preview.png,D:\code\Mangoleaf\masks\Bacterial Canker_20241027_141607-removebg-preview_mask.png,Bacterial Canker,1,310,0.6178252551020409
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20211106_134927 (Custom).jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20211106_134927 (Custom)_mask.png,Bacterial Canker,1,5751,11.461654974489797
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\20241028_160638.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_20241028_160638_mask.png,Bacterial Canker,1,11323,22.566565688775512
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20241103_214810_886.jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20241103_214810_886_mask.png,Bacterial Canker,1,1073,2.1384725765306123
+D:\code\Mangoleaf\Mango Dataset\process data\Bacterial Canker\IMG_20211106_140715 (Custom).jpg,D:\code\Mangoleaf\masks\Bacterial Canker_IMG_20211106_140715 (Custom)_mask.png,Bacterial Canker,1,14140,28.18080357142857
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_160841 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_160841 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_164000 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_164000 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_162545 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_162545 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_164010 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_164010 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_160608 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_160608 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_162341 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_162341 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\IMG_20211027_182209 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_IMG_20211027_182209 (Custom)_mask.png,Die Back,3,987,1.9670758928571428
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_160708 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_160708 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\IMG_20211028_002127 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_IMG_20211028_002127 (Custom)_mask.png,Die Back,3,749,1.4927455357142858
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\IMG_20211028_002101 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_IMG_20211028_002101 (Custom)_mask.png,Die Back,3,139,0.27702487244897955
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_162345 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_162345 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_163746 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_163746 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_160902 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_160902 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\IMG_20211027_190030 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_IMG_20211027_190030 (Custom)_mask.png,Die Back,3,1370,2.730389030612245
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\IMG_20211028_003333 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_IMG_20211028_003333 (Custom)_mask.png,Die Back,3,970,1.9331951530612246
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_164254 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_164254 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_162810 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_162810 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\20211129_160506 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_20211129_160506 (Custom)_mask.png,Die Back,3,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\IMG_20211028_002641 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_IMG_20211028_002641 (Custom)_mask.png,Die Back,3,258,0.5141900510204082
+D:\code\Mangoleaf\Mango Dataset\process data\Die Back\IMG_20211027_193510 (Custom).jpg,D:\code\Mangoleaf\masks\Die Back_IMG_20211027_193510 (Custom)_mask.png,Die Back,3,257,0.5121970663265306
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_162357 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_162357 (Custom)_mask.png,Gall Midge,4,3704,7.382015306122448
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161502 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161502 (Custom)_mask.png,Gall Midge,4,3550,7.075095663265306
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161134 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161134 (Custom)_mask.png,Gall Midge,4,1901,3.788663903061224
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_164148 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_164148 (Custom)_mask.png,Gall Midge,4,5892,11.74266581632653
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161336 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161336 (Custom)_mask.png,Gall Midge,4,4154,8.278858418367346
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_163147 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_163147 (Custom)_mask.png,Gall Midge,4,5221,10.405373086734695
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_163007 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_163007 (Custom)_mask.png,Gall Midge,4,3477,6.929607780612244
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_162059 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_162059 (Custom)_mask.png,Gall Midge,4,2844,5.668048469387755
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161126 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161126 (Custom)_mask.png,Gall Midge,4,2253,4.490194515306122
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_163023 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_163023 (Custom)_mask.png,Gall Midge,4,3158,6.293845663265306
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_163905 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_163905 (Custom)_mask.png,Gall Midge,4,2014,4.013871173469387
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_162608 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_162608 (Custom)_mask.png,Gall Midge,4,4487,8.942522321428571
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161733 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161733 (Custom)_mask.png,Gall Midge,4,2290,4.563934948979592
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161212 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161212 (Custom)_mask.png,Gall Midge,4,2657,5.2953603316326525
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161622 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161622 (Custom)_mask.png,Gall Midge,4,2382,4.747289540816327
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_164111 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_164111 (Custom)_mask.png,Gall Midge,4,3005,5.988919005102041
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_161445 - Copy (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_161445 - Copy (Custom)_mask.png,Gall Midge,4,2739,5.458785076530613
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG-20241104-WA0250.jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG-20241104-WA0250_mask.png,Gall Midge,4,6147,12.250876913265305
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG-20241104-WA0001.jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG-20241104-WA0001_mask.png,Gall Midge,4,7111,14.172114158163266
+D:\code\Mangoleaf\Mango Dataset\process data\Gall Midge\IMG_20211106_164115 (Custom).jpg,D:\code\Mangoleaf\masks\Gall Midge_IMG_20211106_164115 (Custom)_mask.png,Gall Midge,4,3336,6.64859693877551
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_121925 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_121925 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_121900 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_121900 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG256 (5).JPG,D:\code\Mangoleaf\masks\Powdery Mildew_IMG256 (5)_mask.png,Powdery Mildew,6,1576,3.1409438775510203
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG_20211107_122229 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_IMG_20211107_122229 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG_20211107_115709 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_IMG_20211107_115709 (Custom)_mask.png,Powdery Mildew,6,4,0.007971938775510204
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG_20211107_120351 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_IMG_20211107_120351 (Custom)_mask.png,Powdery Mildew,6,64,0.12755102040816327
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG256 (11).JPG,D:\code\Mangoleaf\masks\Powdery Mildew_IMG256 (11)_mask.png,Powdery Mildew,6,1677,3.342235331632653
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_122223 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_122223 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_121407 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_121407 (Custom)_mask.png,Powdery Mildew,6,1,0.001992984693877551
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_122136 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_122136 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG_20211107_121310 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_IMG_20211107_121310 (Custom)_mask.png,Powdery Mildew,6,1,0.001992984693877551
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_121423 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_121423 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_122024 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_122024 (Custom)_mask.png,Powdery Mildew,6,33,0.06576849489795918
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_121958 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_121958 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG_20211107_115458 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_IMG_20211107_115458 (Custom)_mask.png,Powdery Mildew,6,1,0.001992984693877551
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\IMG_20211107_122637 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_IMG_20211107_122637 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_121410 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_121410 (Custom)_mask.png,Powdery Mildew,6,1,0.001992984693877551
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\20211109_121828 (Custom).jpg,D:\code\Mangoleaf\masks\Powdery Mildew_20211109_121828 (Custom)_mask.png,Powdery Mildew,6,0,0.0
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\CGGG343 (8).JPG,D:\code\Mangoleaf\masks\Powdery Mildew_CGGG343 (8)_mask.png,Powdery Mildew,6,1557,3.103077168367347
+D:\code\Mangoleaf\Mango Dataset\process data\Powdery Mildew\FGEFEFEGYI.JPG,D:\code\Mangoleaf\masks\Powdery Mildew_FGEFEFEGYI_mask.png,Powdery Mildew,6,1747,3.481744260204082
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122339 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122339 (Custom)_mask.png,Sooty Mould,7,2089,4.163345025510204
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122206 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122206 (Custom)_mask.png,Sooty Mould,7,3013,6.004862882653061
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122509 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122509 (Custom)_mask.png,Sooty Mould,7,2461,4.9047353316326525
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_121949 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_121949 (Custom)_mask.png,Sooty Mould,7,2427,4.836973852040816
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122702 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122702 (Custom)_mask.png,Sooty Mould,7,2048,4.081632653061225
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_121922 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_121922 (Custom)_mask.png,Sooty Mould,7,2229,4.442362882653061
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG-20241104-WA0195.jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG-20241104-WA0195_mask.png,Sooty Mould,7,6428,12.810905612244897
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_121640 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_121640 (Custom)_mask.png,Sooty Mould,7,1097,2.1863042091836737
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122411 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122411 (Custom)_mask.png,Sooty Mould,7,2128,4.241071428571429
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_123102 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_123102 (Custom)_mask.png,Sooty Mould,7,20326,40.5094068877551
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_121000 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_121000 (Custom)_mask.png,Sooty Mould,7,2271,4.526068239795919
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122711 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122711 (Custom)_mask.png,Sooty Mould,7,2035,4.055723852040816
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_121529 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_121529 (Custom)_mask.png,Sooty Mould,7,1829,3.6451690051020407
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG-20241104-WA0244.jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG-20241104-WA0244_mask.png,Sooty Mould,7,8850,17.637914540816325
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122242 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122242 (Custom)_mask.png,Sooty Mould,7,2369,4.721380739795919
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122428 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122428 (Custom)_mask.png,Sooty Mould,7,3293,6.562898596938775
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG-20241104-WA0183.jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG-20241104-WA0183_mask.png,Sooty Mould,7,14039,27.97951211734694
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122258 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122258 (Custom)_mask.png,Sooty Mould,7,1910,3.806600765306122
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_121244 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_121244 (Custom)_mask.png,Sooty Mould,7,2303,4.58984375
+D:\code\Mangoleaf\Mango Dataset\process data\Sooty Mould\IMG_20211108_122658 (Custom).jpg,D:\code\Mangoleaf\masks\Sooty Mould_IMG_20211108_122658 (Custom)_mask.png,Sooty Mould,7,1973,3.9321588010204076

@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Raw Large Dataset (1.5 GB) - download from Mendeley
+Mango Dataset/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Cache & Temp Files
+cache/
+*.log
+.DS_Store
+Thumbs.db

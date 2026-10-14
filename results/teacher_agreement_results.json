@@ -1,0 +1,17 @@
+{
+  "overall": {
+    "Student_A_SSIM_mean": 0.4641561919653693,
+    "Student_A_SSIM_std": 0.13471236146185173,
+    "Student_B_SSIM_mean": 0.3741046680641172,
+    "Student_B_SSIM_std": 0.161005343501913,
+    "SSIM_paired_t": -8.690928481640407,
+    "SSIM_p_value": 1.325934970994829e-15,
+    "Student_A_Spearman_mean": 0.7105240029637181,
+    "Student_A_Spearman_std": 0.27901695425148265,
+    "Student_B_Spearman_mean": 0.7242615400918797,
+    "Student_B_Spearman_std": 0.29403942211903555,
+    "Spearman_paired_t": 2.2365700359488385,
+    "Spearman_p_value": 0.026424312543957752
+  },
+  "num_evaluated": 200
+}

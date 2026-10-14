@@ -1,0 +1,32 @@
+[
+  {
+    "Model":"Teacher (Swin-T)",
+    "Total Params (M)":27.53,
+    "FLOPs (G)":4.371,
+    "Checkpoint Size (MB)":105.07,
+    "GPU Latency (ms)":17.79,
+    "GPU FPS":56.2,
+    "CPU Latency (ms)":108.18,
+    "CPU FPS":9.2
+  },
+  {
+    "Model":"Student A (Plain MobileNetV3)",
+    "Total Params (M)":1.53,
+    "FLOPs (G)":0.061,
+    "Checkpoint Size (MB)":5.95,
+    "GPU Latency (ms)":7.08,
+    "GPU FPS":141.2,
+    "CPU Latency (ms)":11.21,
+    "CPU FPS":89.2
+  },
+  {
+    "Model":"Student B (Distilled MobileNetV3)",
+    "Total Params (M)":1.53,
+    "FLOPs (G)":0.061,
+    "Checkpoint Size (MB)":5.95,
+    "GPU Latency (ms)":6.7,
+    "GPU FPS":149.3,
+    "CPU Latency (ms)":10.17,
+    "CPU FPS":98.4
+  }
+]

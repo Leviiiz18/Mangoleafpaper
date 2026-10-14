@@ -1,0 +1,4 @@
+Model,Total Params (M),FLOPs (G),Checkpoint Size (MB),GPU Latency (ms),GPU FPS,CPU Latency (ms),CPU FPS
+Teacher (Swin-T),27.53,4.371,105.07,17.79,56.2,108.18,9.2
+Student A (Plain MobileNetV3),1.53,0.061,5.95,7.08,141.2,11.21,89.2
+Student B (Distilled MobileNetV3),1.53,0.061,5.95,6.7,149.3,10.17,98.4

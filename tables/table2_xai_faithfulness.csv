@@ -1,0 +1,4 @@
+Model,Deletion AUC (lower=better),Insertion AUC (higher=better),Lesion Mask IoU
+Teacher,0.5797 ± 0.3905,0.9332 ± 0.1374,0.1387 ± 0.1769
+Student_A,0.5997 ± 0.3585,0.9611 ± 0.0820,0.1293 ± 0.1486
+Student_B,0.6059 ± 0.3809,0.9432 ± 0.1257,0.1247 ± 0.1401
