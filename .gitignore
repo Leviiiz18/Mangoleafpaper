@@ -16,5 +16,8 @@ __pycache__/
 # Cache & Temp Files
 cache/
 *.log
-.DS_Store
-Thumbs.db
+# Intermediate Work
+Mango Leaf Diseases/work/images/
+Mango Leaf Diseases/work/runs/
+new_model_results/
+
